@@ -5,5 +5,6 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Student Task Manager");
         System.out.println("Maven compilation successful!");
+System.out.println("Updated code deployed through Jenkins!");
     }
 }
